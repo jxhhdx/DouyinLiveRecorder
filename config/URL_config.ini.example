@@ -1,0 +1,10 @@
+# 支持的格式：
+#   - 直接链接: https://live.douyin.com/xxxxx
+#   - 带画质设置: 超清,https://live.douyin.com/xxxxx
+#   - 注释行: 以 # 开头
+
+# 配置示例：
+# https://live.douyin.com/93777291150,主播: 幻瞳(独自双排)
+# https://live.kuaishou.com/u/3x7cff8hm8b9uwi,主播: 骚白-白家911
+
+# 在下面添加你要监控的直播间链接：

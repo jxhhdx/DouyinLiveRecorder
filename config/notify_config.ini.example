@@ -1,0 +1,9 @@
+[mail]
+enabled = false
+smtp_server = smtp.qq.com
+smtp_port = 465
+use_ssl = true
+sender_email = your_email@qq.com
+sender_password = your_auth_code
+receiver_email = receiver@qq.com
+min_interval_minutes = 60

@@ -83,6 +83,18 @@ ipython_config.py
 
 # DouyinLiveRecord
 backup_config/
+downloads/
+aliyunpan/
+config/notify_config.ini
+config/URL_config.ini
+!config/*.example
+*.ts
+*.mp4
+*.flv
+*.mkv
+!aliyunpan/.gitignore
+!downloads/.gitignore
+!logs/.gitignore
 logs/
 node/
 node-v*.zip
@@ -165,3 +177,15 @@ cython_debug/
 #.idea/
 
 backup_config/
+downloads/
+aliyunpan/
+config/notify_config.ini
+config/URL_config.ini
+!config/*.example
+*.ts
+*.mp4
+*.flv
+*.mkv
+!aliyunpan/.gitignore
+!downloads/.gitignore
+!logs/.gitignore
