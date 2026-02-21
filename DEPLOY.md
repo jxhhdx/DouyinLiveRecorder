@@ -169,6 +169,19 @@ docker exec -it live-uploader /usr/local/bin/aliyunpan login
    docker-compose logs recorder | tail -100
    ```
 
+## 🐛 常见问题
+
+遇到问题？查看 [TROUBLESHOOTING.md](TROUBLESHOOTING.md) 获取详细的踩坑记录和解决方案：
+
+- aliyunpan CLI 参数错误
+- subprocess PIPE 缓冲区阻塞
+- 阿里云盘异步上传验证
+- 文件录制完成检测
+- Cookie 特殊字符处理
+- 视频画质选择建议
+- 磁盘空间管理
+- 邮件通知配置
+
 ## 📄 License
 
 MIT License
